@@ -1,0 +1,6 @@
+psycopg2-binary
+paho-mqtt
+python-dotenv
+streamlit
+plotly
+pandas
