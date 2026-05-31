@@ -4,3 +4,5 @@ python-dotenv
 streamlit
 plotly
 pandas
+sqlalchemy
+numpy
