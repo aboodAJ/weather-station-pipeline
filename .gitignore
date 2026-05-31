@@ -1,5 +1,7 @@
 .env
 .venv
-.vscode\
 *.csv
 *.parquet
+.vscode/
+.claude
+models
